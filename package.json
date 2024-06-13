@@ -1,0 +1,30 @@
+{
+  "name": "arenaev-vehicles-news",
+  "version": "1.0.0",
+  "description": "This is Electric Vehicle News getter. created by mr nima. using arenaev.com web site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkmakerofc/arenaev-vehicles-news.git"
+  },
+  "keywords": [
+    "news",
+    "electric",
+    "vehicles",
+    "scraper",
+    "arenaev"
+  ],
+  "author": "darkmakerofc (mrnima)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkmakerofc/arenaev-vehicles-news/issues"
+  },
+  "homepage": "https://github.com/darkmakerofc/arenaev-vehicles-news#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
