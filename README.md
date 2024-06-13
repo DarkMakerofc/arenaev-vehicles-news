@@ -2,8 +2,7 @@
 
 <div id="logo" align= "center">
 <a>
-<object type="image/svg+xml" data="https://st.arenaev.com/i/logo/arenaevcolor-neg.svg"><img src="https://st.arenaev.com/i/logo/arenaevcolor-neg-bg.gif" alt="ArenaEV.com"></object>
-<span>ArenaEV.com</span></a>
+<object type="image/svg+xml" data="https://st.arenaev.com/i/logo/arenaevcolor-neg.svg"><img src="https://st.arenaev.com/i/logo/arenaevcolor-neg-bg.gif" alt="ArenaEV.com"></object></a>
 </div>
 
 <h4 align="center">
